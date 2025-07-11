@@ -1,7 +1,7 @@
 # Serveur_AD_Axeplane
 
 Mdp: 
-- amdin : Blabla02
+- admin : Blabla02
 - Mehdi:  Blabla01
 
 

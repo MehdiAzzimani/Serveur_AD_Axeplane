@@ -1,5 +1,9 @@
 # Serveur_AD_Axeplane
 
+Mdp: 
+- amdin : Blabla02
+- Mehdi:  Blabla01
+
 
  Projet : Mise en place d'une infrastructure Active Directory sur Windows Server 2022
 

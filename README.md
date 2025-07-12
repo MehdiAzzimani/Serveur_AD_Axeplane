@@ -3,6 +3,7 @@
 Mdp: 
 - admin : Blabla02
 - Mehdi:  Blabla01
+  
 (Mode d'accés réseau des 2 vm en réseau privé hôte) 
 
  Projet : Mise en place d'une infrastructure Active Directory sur Windows Server 2022
